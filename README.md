@@ -27,4 +27,5 @@ Ce projet vise à comprendre :
 
 ## Auteur
 
-Achraf Saber
+Asmaa TALAL
+Khouloud BENNOUBY  
