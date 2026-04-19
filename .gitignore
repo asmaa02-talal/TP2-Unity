@@ -1,0 +1,12 @@
+.vs/
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+*.dll
+*.aar
+*.dylib
+*.so
+*.bundle
